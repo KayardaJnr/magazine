@@ -36,7 +36,21 @@
   margin-top: 15px;
   border-radius: 5px;
 }
+
 .article-item {
-    margin-bottom: 30px;
-    text-align: left;
+  margin-bottom: 30px;
+}
+.article-item h3 {
+  color: #1c315c;
+}
+.article-item p {
+  color: #555;
+  line-height: 1.6;
+}
+.article-item a {
+  color: #1c315c;
+  text-decoration: none;
+}
+.article-item a:hover {
+  text-decoration: underline;
 }

@@ -2,7 +2,7 @@ import './Articles.css';
 const Articles = ({title, content, author}) => {
   return (
     <section className="articles" id="articles">
-        <h2>Latest Articles</h2>
+        <h2>Welcome To Ihifix Magazine</h2>
         <div className="article-list">
             <article className="article-item">
                 <h3>The Future of Tech: What to Expect in 2024</h3>

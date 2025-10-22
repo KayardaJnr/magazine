@@ -1,0 +1,42 @@
+.articles {
+  padding: 50px;
+  background-color: #ffffff;
+  text-align: center;
+}
+.articles h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 40px;
+}
+.article {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+.article h3 {
+  color: #1c315c;
+  margin-top: 0;
+}
+.article p {
+  color: #555;
+  line-height: 1.6;
+}
+.article a {
+  color: #1c315c;
+  text-decoration: none;
+}
+.article a:hover {
+  text-decoration: underline;
+}
+.article img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 15px;
+  border-radius: 5px;
+}
+.article-item {
+    margin-bottom: 30px;
+    text-align: left;
+}

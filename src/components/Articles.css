@@ -10,7 +10,7 @@
 }
 .article {
   background-color: #fff;
-  border: 1px solid #ddd;
+  border: 1px solid #000000;
   border-radius: 5px;
   padding: 20px;
   margin-bottom: 30px;
@@ -29,12 +29,6 @@
 }
 .article a:hover {
   text-decoration: underline;
-}
-.article img {
-  max-width: 100%;
-  height: auto;
-  margin-top: 15px;
-  border-radius: 5px;
 }
 
 .article-item {
